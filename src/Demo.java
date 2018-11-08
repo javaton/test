@@ -3,6 +3,7 @@ public class Demo {
 	
 	public static void main(String[] args) {
 		try {
+			
 			int x = 1;
 			int y = 10/x;
 			System.out.println("x = " + x);
